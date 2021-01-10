@@ -5,10 +5,10 @@ public class SomeProgram {
     }
 	
 	public void manageTheRockets() {
-		// TODO implement
+		System.out.println("Let`s rock!");
 	}
 	public void manageTheSatellite() {
-
-    // TODO implement
+		System.out.println("Let`s start!");
+  
 }
 }
